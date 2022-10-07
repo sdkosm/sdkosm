@@ -8,7 +8,7 @@ Web & Blockchain Developer
 --------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Deepak !!](http://deepak.web.app)
+* 🖥️  See my portfolio at [Deepak !!](https://deepaklodha.pages.dev/)
 * ✉️  You can contact me at [sdkosm23@gmail.com](mailto:sdkosm23@gmail.com)
 * 🚀  I'm currently working on [Crypto-Chain: The Confluence of Cryptocurrency & Blockchain](http://sdkosm.org)
 * 🧠  I'm learning React Js & React Native
