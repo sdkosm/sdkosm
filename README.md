@@ -1,5 +1,4 @@
-Hi 👋 My name is Deepak !!
-I am passionate in Blockchain and Cryptocurrency from India with almost 1.5 years of experience in blockchain and Cryptocurrency, enthusiastic about blockchain and web3 industry, looking forward to learn something new every day and contribute to the industry !!
+Hello! 👋 I’m Deepak, a passionate blockchain and cryptocurrency enthusiast from India. With nearly 1.5 years of hands-on experience in the blockchain space, I’m deeply committed to the growth of Web3 and decentralized technologies. I thrive on continuous learning and am always eager to discover new insights that can make an impact in the industry. Excited to contribute meaningfully and be part of this dynamic, transformative journey in blockchain and beyond! 🚀
 
 
 <a href="https://app.daily.dev/sdkosm"><img src="https://api.daily.dev/devcards/c968ecf78e874b318e27dcb149d1596e.png?r=rck" width="400" alt="DEEPAK LODHA's Dev Card"/></a>
